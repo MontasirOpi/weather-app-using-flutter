@@ -64,6 +64,10 @@ flutter {
     source '../..'
 }
 
+<<<<<<< HEAD
 dependencies {
 
 }
+=======
+dependencies {}
+>>>>>>> 342263231bd08b637477504546598a196375943b
